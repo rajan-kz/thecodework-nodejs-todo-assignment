@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+package-lock.json
+pnpm-lock.yaml
+.env
+
+api/node_modules
+api/package-lock.json
+api/pnpm-lock.yaml
+api/.env
+api/firebase/key.json
